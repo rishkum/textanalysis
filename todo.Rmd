@@ -1,0 +1,14 @@
+---
+title: "Todo"
+author: "Rishabh Kumar"
+date: "22/05/2020"
+output: html_document
+---
+
+# lets make a list of things to do:
+
+-[ ] Get the file from the link
+-[ ] Convert it into txt
+-[ ] Run hierarichal topical analysis
+-[ ] Run Sentiment scores for sentences that has ML/AI
+-[ ] 
