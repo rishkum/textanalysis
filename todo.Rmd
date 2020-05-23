@@ -11,4 +11,4 @@ output: html_document
 -[ ] Convert it into txt
 -[ ] Run hierarichal topical analysis
 -[ ] Run Sentiment scores for sentences that has ML/AI
--[ ] 
+-[ ] Summarise text
